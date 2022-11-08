@@ -1,11 +1,11 @@
 body{
-    background-color: aliceblue;
+    background-color: #1f2833;
 }
 .tb{
     width: 60%;
     height: 400px;
     border-radius: 20px;
-    border-color: aqua;
+    border-color: black;
     border-spacing: 5px;
     padding: 15px 15px;
     text-align: center;
@@ -26,7 +26,7 @@ body{
     font-family: monospace;
     font-size: large;
     color: aqua;
-    background-color: white;
+    background-color: black;
     border-radius: 5px;
 
 }
